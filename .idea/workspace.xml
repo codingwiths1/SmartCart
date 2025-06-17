@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aeec00fe-6d80-4ba8-9f1e-ef7173f74c2b" name="Changes" comment="SmartCart">
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/46705de8fa5f02e635b6c39723962db9/.filecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/46705de8fa5f02e635b6c39723962db9/app.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/46705de8fa5f02e635b6c39723962db9/debug_android_application.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/46705de8fa5f02e635b6c39723962db9/flutter_assets.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/46705de8fa5f02e635b6c39723962db9/gen_dart_plugin_registrant.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/46705de8fa5f02e635b6c39723962db9/gen_localizations.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/46705de8fa5f02e635b6c39723962db9/kernel_snapshot.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/46705de8fa5f02e635b6c39723962db9/kernel_snapshot_native_assets.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/46705de8fa5f02e635b6c39723962db9/kernel_snapshot_program.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/46705de8fa5f02e635b6c39723962db9/kernel_snapshot_program.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/46705de8fa5f02e635b6c39723962db9/native_assets.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/46705de8fa5f02e635b6c39723962db9/native_assets.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/46705de8fa5f02e635b6c39723962db9/native_assets.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/46705de8fa5f02e635b6c39723962db9/native_assets.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/46705de8fa5f02e635b6c39723962db9/outputs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/46705de8fa5f02e635b6c39723962db9/program.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/dart_plugin_registrant.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/java/com/example/ecommerce_app_thumbnail/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-hdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-mdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-night-hdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-night-mdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-night-v21/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-night-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-night-xhdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-night-xxhdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-night-xxxhdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-night/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-night/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-v21/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-xhdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxhdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxxhdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values-night-v31/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values-v31/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gifs/ins1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gifs/ins2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gifs/ins3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/1733410170807.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Categories Icons/picon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Categories Icons/picon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Categories Icons/picon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Categories Icons/picon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Categories Icons/picon5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Categories Icons/picon6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Categories Icons/picon7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Categories Icons/picon8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/allDone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/emailSent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/02193105330-e1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/03046058800-e1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/05584470800-e1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/12450420800-e1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/13340530802-e1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/61dlFzm4TbL._AC_UL480_FMwebp_QL65_.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/61fcXAKUXoL._AC_SX679_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/61nFlZvU+RL._AC_UL480_FMwebp_QL65_.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/61tWTfjqlOL._AC_UY327_FMwebp_QL65_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/7140etZcqSL._AC_UL480_FMwebp_QL65_.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/71br7YoLxQL._AC_UL480_FMwebp_QL65_.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/71hP3exL7ML._AC_UL480_FMwebp_QL65_.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/81ABgxPwuNL._AC_SX679_PIbundle-2,TopRight,0,0_SH20_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/81NMS2TtU6L._AC_UY327_FMwebp_QL65_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/81aVOBZUq6L._AC_UY327_FMwebp_QL65_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/81gTTc2IpCL._AC_UY327_FMwebp_QL65_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/81mlrn-wWoL.__AC_SX300_SY300_QL70_FMwebp_.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/81yVcGESG9L._AC_UY327_FMwebp_QL65_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/91c3Ca9UdiS.__AC_SX300_SY300_QL70_FMwebp_.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/927f6a6558b1ee59c7973ad213fa5db2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/africa-en-galaxy-s25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/iphone_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/iphone_16pro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/iphone_se.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/nonshop_blue.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/product_tile_mbp_14_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/pt_ipad_air.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/samsungbuds3pro-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product_images/samsungwatch7-2_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/promotion_image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/promotion_image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/promotion_image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/promotion_image4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/Facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/Google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/Nike_noBackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/images_prev_ui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/nike_black_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/nike_white_logo.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2yCywZyXDo8OKSS2L1bhgVaKX6Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Flutter.main.dart.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "ScreenshotViewer.SavePath": "C:/Users/USER/Downloads/Whatsapp",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.android.tools.idea.streaming.zoom.toolbar.visible": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USER/Downloads/Whatsapp",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aeec00fe-6d80-4ba8-9f1e-ef7173f74c2b" name="Changes" comment="" />
+      <created>1749353096654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749353096654</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="SmartCart" />
+    <option name="LAST_COMMIT_MESSAGE" value="SmartCart" />
+  </component>
+</project>
